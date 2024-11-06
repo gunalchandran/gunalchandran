@@ -10,9 +10,7 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gunal-chandran&label=Profile%20views&color=0e75b6&style=flat" alt="gunal-chandran" />
-</p>
+
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
