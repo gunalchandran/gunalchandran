@@ -20,59 +20,81 @@
 
 <!-- Languages and Tools -->
 <h3 class="text-lg font-semibold text-gray-800 mt-8 mb-2 animate__animated animate__fadeIn animate__delay-5s animate__fadeInUp">Languages and Tools:</h3>
-<p class="flex flex-wrap justify-start gap-6 animate__animated animate__fadeIn animate__delay-6s">
+<p class="flex flex-wrap justify-start gap-8 animate__animated animate__fadeIn animate__delay-6s">
+  <!-- Android -->
   <a href="https://developer.android.com" target="_blank" class="transition transform hover:scale-110 hover:text-green-600 animate__animated animate__zoomIn animate__delay-1s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
   </a>
+  <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" class="transition transform hover:scale-110 hover:text-orange-600 animate__animated animate__zoomIn animate__delay-2s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>
+  <!-- C Programming -->
   <a href="https://www.cprogramming.com/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-3s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
   </a>
+  <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-4s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   </a>
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-5s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   </a>
+  <!-- Express -->
   <a href="https://expressjs.com" target="_blank" class="transition transform hover:scale-110 hover:text-gray-700 animate__animated animate__zoomIn animate__delay-6s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
   </a>
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" class="transition transform hover:scale-110 hover:text-pink-600 animate__animated animate__zoomIn animate__delay-7s">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
+  <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" class="transition transform hover:scale-110 hover:text-yellow-600 animate__animated animate__zoomIn animate__delay-8s">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
   </a>
+  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-9s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="transition transform hover:scale-110 hover:text-yellow-600 animate__animated animate__zoomIn animate__delay-10s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
+  <!-- Jenkins -->
   <a href="https://www.jenkins.io" target="_blank" class="transition transform hover:scale-110 hover:text-gray-700 animate__animated animate__zoomIn animate__delay-11s">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
   </a>
+  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" class="transition transform hover:scale-110 hover:text-green-600 animate__animated animate__zoomIn animate__delay-12s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-13s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
+  <!-- Oracle -->
   <a href="https://www.oracle.com/" target="_blank" class="transition transform hover:scale-110 hover:text-orange-600 animate__animated animate__zoomIn animate__delay-14s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
   </a>
+  <!-- Photoshop -->
   <a href="https://www.photoshop.com/en" target="_blank" class="transition transform hover:scale-110 hover:text-pink-600 animate__animated animate__zoomIn animate__delay-15s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
   </a>
+  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-16s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   </a>
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-17s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" class="transition transform hover:scale-110 hover:text-teal-600 animate__animated animate__zoomIn animate__delay-18s">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank" class="transition transform hover:scale-110 hover:text-blue-600 animate__animated animate__zoomIn animate__delay-18s">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" class="transition transform hover:scale-110 hover:text-pink-600 animate__animated animate__zoomIn animate__delay-19s">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="50" height="50"/>
   </a>
 </p>
